@@ -202,4 +202,3 @@ Through:
 | Reward transfer               | ✅      |
 | Daily limit enforcement       | ✅      |
 | Environmental impact tracking | ✅      |
-Would you like me to include **sample Clarity test cases (in Clarinet)** to go along with this README (for user registration, deposit, and reward calculation)? That would make it easier to verify contract functionality.
